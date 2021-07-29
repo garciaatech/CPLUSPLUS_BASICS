@@ -1,0 +1,3 @@
+﻿  ThirdApp.cpp
+C:\Users\adam\Desktop\C++\ThirdApp\ThirdApp.cpp(12,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+  ThirdApp.vcxproj -> C:\Users\adam\Desktop\C++\ThirdApp\Debug\ThirdApp.exe
